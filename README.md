@@ -515,18 +515,10 @@ The app supports 20+ currencies with live exchange rates:
 - [ ] **Widgets** - Home screen widgets
 - [ ] **Apple Watch** - Watch app companion
 
-## 🐛 Known Bugs
 
-### **Fixed Issues**
-- ✅ **Date Display**: Expenses showing wrong dates (Fixed)
-- ✅ **Pagination Loading**: Infinite loading issue (Fixed)
-- ✅ **Category Consistency**: Mismatched category names (Fixed)
-- ✅ **Currency Conversion**: Not saving converted amounts (Fixed)
 
-### **Minor Issues**
-- **Print Statements**: Debug prints in production code
-- **Deprecated Methods**: Using old Flutter APIs
-- **Style Inconsistencies**: Some color format issues
+
+
 
 ## 🤝 Contributing
 
