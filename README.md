@@ -548,12 +548,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Material Design](https://material.io/) for design guidelines
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) principles
 
-## 📞 Support
 
-For support, email support@expensetrack.app or join our [Discord community](https://discord.gg/expensetrack).
 
----
-
-**Made with ❤️ using Flutter**
-
-*Track your expenses, achieve your financial goals!* 💰✨
