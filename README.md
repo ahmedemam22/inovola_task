@@ -15,7 +15,6 @@ A modern, feature-rich expense tracking application built with Flutter, followin
 - **Smart Filters** - This Month, Last 7 Days, This Year, All Time
 - **Expense List** with pagination and infinite scroll
 - **Real-time Updates** with pull-to-refresh functionality
-- **Delete Functionality** with confirmation dialogs
 
 ### ➕ **Add Expense**
 - **Category Selection** with 20+ predefined categories and icons
