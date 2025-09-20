@@ -288,8 +288,8 @@ class PaginationEntity<T> {
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-track.git
-   cd expense-track
+   git https://github.com/ahmedemam22/inovola_task.git
+   cd inovola_task
    ```
 
 2. **Install dependencies**
